@@ -41,7 +41,7 @@
 * **Shota Deguchi**: Completion of PFFP (Preparing Future Faculty Program), Kyushu University, September 2020 (Certification No. 22). 
 
 ## Grants
-* Kyushu University SPRING (Support for Pioneering Research Initiated by the Next Generation) Program
+* K-SPRING (Kyushu University Support for Pioneering Research Initiated by the Next Generation) as a part of JST (Japan Science and Technology Agency) program (April 2022 - March 2025). 
 
 ## Programming Languages
 * Python
