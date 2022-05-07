@@ -6,11 +6,9 @@
 * [Structural Analysis Lab.](https://kyushu-u.wixsite.com/structural-analysis), Kyushu University, Japan (PhD student)
 
 ## Interests
-* Machine / Deep Learning for Physics Simulation
-* Deep Neural Network
+* Numerical Simulation (FDM, FEM, SPH)
 * Physics-Informed Neural Network
 * Graph Neural Network
-* Numerical Simulation (FDM, FEM, SPH)
 
 ## Publications
 ### Refereed Papers (査読有り論文)
