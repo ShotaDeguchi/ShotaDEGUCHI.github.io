@@ -39,5 +39,10 @@
 ## Grants
 * Kyushu University SPRING (Support for Pioneering Research Initiated by the Next Generation) Program
 
+## Programming Languages
+* Python
+* Fortran
+* C++
+
 ## I/O (Japanese)
 * [Qiita](https://qiita.com/ShotaDeguchi) - Technical knowledge platform.
