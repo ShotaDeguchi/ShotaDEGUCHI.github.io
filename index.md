@@ -1,7 +1,7 @@
 # Shota DEGUCHI (出口翔大)
 * PhD student at Kyushu University
 * Machine / Deep Learning for Physics Simulation
-* [GitHub repository](https://github.com/ShotaDeguchi) includes several open-access deep learning codes. 
+* [GitHub repository](https://github.com/ShotaDeguchi) stores several open-access deep learning codes. 
 
 ## Affiliation
 * [Structural Analysis Lab.](https://kyushu-u.wixsite.com/structural-analysis), Kyushu University, Japan. 
