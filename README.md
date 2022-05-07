@@ -1,1 +1,0 @@
-# ShotaDeguchi.github.io
