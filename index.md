@@ -7,9 +7,8 @@
 
 ## Interests
 * Machine / Deep Learning for Physics Simulation
-* Numerical Simulation (FDM, FEM, SPH)
-* Physics-Informed Neural Network
-* Graph Neural Network
+* Numerical Simulation (Finite Difference Method, Finite Element Method, Smoothed Particle Hydrodynamics)
+* Deep Learning (Deep Neural Network, Physics-Informed Neural Network, Graph Neural Network) 
 
 ## Publications
 ### Refereed Papers (査読有り論文)
