@@ -3,4 +3,4 @@ logo: /img/img.jpg
 description: description here. 
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-slate
