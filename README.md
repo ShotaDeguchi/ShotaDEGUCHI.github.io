@@ -1,1 +1,1 @@
-# ShotaDEGUCHI.github.io
+# ShotaDeguchi.github.io
