@@ -1,2 +1,2 @@
 # ShotaDeguchi.github.io
-My website. 
+My web page. 
