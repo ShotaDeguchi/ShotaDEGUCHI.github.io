@@ -1,5 +1,6 @@
 # Shota DEGUCHI (出口翔大)
 * PhD student at Kyushu University
+* 
 * Machine / Deep Learning for Physics Simulation
 * [GitHub repository](https://github.com/ShotaDeguchi) includes several open-access deep learning codes. 
 
