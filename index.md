@@ -6,7 +6,7 @@
 ## Affiliation
 * [Structural Analysis Lab.](https://kyushu-u.wixsite.com/structural-analysis), Kyushu University, Japan. 
 
-## Research Interests
+## Interests
 * Numerical Simulation (FDM, FEM, SPH)
 * Physics-Informed Neural Network
 * Graph Neural Network
