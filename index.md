@@ -36,6 +36,5 @@
 ## Grants
 * Kyushu University SPRING (Support for Pioneering Research Initiated by the Next Generation) Program
 
-## i/o
-* [Twitter](https://qiita.com/ShotaDeguchi) - Technical knowledge platform.
+## I/O (Japanese)
 * [Qiita](https://qiita.com/ShotaDeguchi) - Technical knowledge platform.
