@@ -3,7 +3,7 @@
 * Machine / Deep Learning for Physics Simulation
 
 ## Affiliation
-* [Structural Analysis Lab.](https://kyushu-u.wixsite.com/structural-analysis), Kyushu University, Japan (PhD student)
+* [Structural Analysis Lab.](https://kyushu-u.wixsite.com/structural-analysis), Kyushu University, Japan. 
 
 ## Interests
 * Numerical Simulation (FDM, FEM, SPH)
