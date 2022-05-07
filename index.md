@@ -35,7 +35,3 @@
 
 ## Grants
 * Kyushu University SPRING (Support for Pioneering Research Initiated by the Next Generation) Program
-
-## Blog
-* https://qiita.com/ShotaDeguchi (Japanese)
-
