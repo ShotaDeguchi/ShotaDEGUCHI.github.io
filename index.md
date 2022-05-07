@@ -34,6 +34,11 @@
 * **出口翔大**，浅井光輝，植木裕人，竹内友紀，川崎浩司：数値解析のサロゲートモデリングによる確率論的災害リスク手法の開発，第23回応用力学シンポジウム，SS1A-06，2020年5月．
 * **出口翔大**，浅井光輝：大規模津波解析のサロゲートモデル化による確率論的被害リスク評価，令和元年度土木学会西部支部研究発表会，Ⅱ-7，2020年3月．
 
+### Others
+* **出口翔大**：支配方程式による制約を加えた機械学習PINNsを用いた粘性流体の順・逆解析，機械学習の工学問題適用に関する研究会，第8回研究会，日本計算工学会，2022年1月（招待講演）．
+* **Shota Deguchi**: Transcending Borders, OIST Science Challenge 2021，2021年3月（審査員特別賞受賞）. 
+* **Shota Deguchi**: Completion of PFFP (Preparing Future Faculty Program), Kyushu University, September 2020. 
+
 ## Grants
 * Kyushu University SPRING (Support for Pioneering Research Initiated by the Next Generation) Program
 
