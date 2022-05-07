@@ -3,8 +3,8 @@
 * Machine / Deep Learning for Physics Simulation
 
 ## Affiliation
-* 九州大学大学院 工学府 土木工学専攻 構造解析学研究室 博士後期課程
-  PhD student at [Structural Analysis Lab.](https://kyushu-u.wixsite.com/structural-analysis), Department of Civil Engineering, Kyushu University, Japan. 
+* 九州大学大学院 工学府 土木工学専攻 構造解析学研究室 (博士後期課程)
+* [Structural Analysis Lab.](https://kyushu-u.wixsite.com/structural-analysis), Department of Civil Engineering, Kyushu University, Japan (PhD student)
 
 ## Interest
 * 
