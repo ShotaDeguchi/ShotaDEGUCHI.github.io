@@ -1,5 +1,5 @@
 # Shota DEGUCHI (出口翔大)
-* PhD student at Kyushu University
+* PhD student at Kyushu University, Japan. 
 * [My GitHub](https://github.com/ShotaDeguchi) stores several open-access repositories for deep learning. 
 
 ## Affiliation
