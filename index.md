@@ -40,7 +40,7 @@
 * **Shota Deguchi**: Completion of PFFP (Preparing Future Faculty Program), Kyushu University, September 2020 (Certification Number: 22). 
 
 ## Grants
-* **Shota Deguchi**: Development of Real-Time Flood Emulator using Numerical Simulation and Machine Learning, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency, Japan (April 2022 - March 2025). 
+  * **Shota Deguchi**: Development of Real-Time Flood Emulator by Combining Numerical Simulation and Machine Learning, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency, Japan (April 2022 - March 2025). 
 
 ## Programming Languages
 * Python
