@@ -1,5 +1,6 @@
+---
 layout: default
-title: top_page
+---
 
 # Shota DEGUCHI (出口翔大)
 * PhD student at Kyushu University, Japan. 
