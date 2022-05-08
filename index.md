@@ -20,7 +20,7 @@
 * **出口翔大**，浅井光輝，竹内友紀，川崎浩司：大規模解析のサロゲートモデリングによる確率論的災害被害リスク評価，計算工学講演会論文集，Vol. 25，pp. C-02-01，2020年．
 
 ### Conferences (International)
-* **Shota Deguchi**, Mitsuteru Asai, Hiroto Ueki, Yuki Takeuchi, Koji Kawasaki: Probabilistic disaster risk evaluation with surrogate-modelled numerical simulations, COMPSAFE2020, MS16-2-02, Kobe, Japan, December 2020. 
+* **Shota Deguchi**, Mitsuteru Asai, Hiroto Ueki, Yuki Takeuchi, Koji Kawasaki: Probabilistic disaster risk evaluation with surrogate-modelled numerical simulations, *COMPSAFE2020*, MS16-2-02, Kobe, Japan, December 2020. 
 
 ### Conferences (Japanese)
 * **出口翔大**，柴田洋佑，浅井光輝：物理法則に基づく深層学習モデルPINNsによる流体運動の順・逆解析，第34回計算力学講演会，OS13-3-139，2021年9月．
