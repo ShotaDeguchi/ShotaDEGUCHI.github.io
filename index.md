@@ -48,4 +48,4 @@
 * C++
 
 ## I/O Platform
-* [Qiita](https://qiita.com/ShotaDeguchi) - Blog about research, numerical analysis, and machine learning. 
+* [Qiita](https://qiita.com/ShotaDeguchi) - Blog about research, numerical analysis, and machine learning (Japanese). 
