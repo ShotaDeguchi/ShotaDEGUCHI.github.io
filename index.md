@@ -43,8 +43,8 @@ layout: default
 * **Shota Deguchi**: Transcending Borders, OIST Science Challenge 2021, Okinawa Institute of Science and Technology Graduate University, March 2021 （審査員特別賞）. 
 * **Shota Deguchi**: Completion of PFFP (Preparing Future Faculty Program), Kyushu University, September 2020 (Certification Number: 22). 
 
-## Grants
-  * **Shota Deguchi**: Development of Real-Time Flood Emulator by Combining Numerical Simulation and Machine Learning, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency, Japan (April 2022 - March 2025). 
+## Grant
+* **Shota Deguchi**: Development of Real-Time Flood Emulator by Combining Numerical Simulation and Machine Learning, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency, Japan (April 2022 - March 2025). 
 
 ## Programming Languages
 * Python
