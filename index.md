@@ -51,5 +51,5 @@ layout: default
 * Fortran
 * C++
 
-## I/O (Innovation is the Open)
+## I/O Platform
 * [Qiita](https://qiita.com/ShotaDeguchi) - Blog about research, numerical analysis, and machine learning (Japanese). 
