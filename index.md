@@ -40,9 +40,8 @@ layout: default
 
 ### Others
 * **出口翔大**：支配方程式による制約を加えた機械学習PINNsを用いた粘性流体の順・逆解析，機械学習の工学問題適用に関する研究会，第8回研究会，日本計算工学会，2022年1月（招待講演）．
-* **Shota Deguchi**: Forward and Inverse Analysis of Viscous Fluid using Physics-Informed Neural Networks, 8th Research Meeting on Applications of Machine Learning to Engineering Problems, Japan Society for Computational Engineering and Science, January 2022. 
-*  **Shota Deguchi**: Transcending Borders, OIST Science Challenge 2021, Okinawa Institute of Science and Technology Graduate University, March 2021. 
-* **Shota Deguchi**: Completion of PFFP (Preparing Future Faculty Program), Kyushu University, September 2020. 
+*  **Shota Deguchi**: Transcending Borders, OIST Science Challenge 2021, Okinawa Institute of Science and Technology Graduate University, March 2021（審査員特別賞）. 
+* **Shota Deguchi**: Completion of PFFP (Preparing Future Faculty Program), Kyushu University, September 2020（Certification Number: 22）. 
 
 ## Grant
 * **Shota Deguchi**: Development of Real-Time Flood Emulator by Combining Numerical Simulation and Machine Learning, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency, Japan (April 2022 - March 2025). 
