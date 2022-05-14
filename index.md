@@ -52,4 +52,4 @@ layout: default
 * C++
 
 ## I/O Platform
-* [Qiita](https://qiita.com/ShotaDeguchi) - Blog about research, numerical analysis, and machine learning (Japanese). 
+* [Qiita](https://qiita.com/ShotaDeguchi) - About numerical simulation and machine / deep learning (Japanese). 
