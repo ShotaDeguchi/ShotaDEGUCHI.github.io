@@ -51,6 +51,6 @@ layout: default
 * Fortran
 * C++
 
-## I/O Platform
+## I/O Platforms
 * [GitHub](https://github.com/ShotaDeguchi) - Open-access deep learning codes. 
 * [Qiita](https://qiita.com/ShotaDeguchi) - Discussions on numerical simulation and machine / deep learning. 
