@@ -52,4 +52,5 @@ layout: default
 * C++
 
 ## I/O Platform
-* [Qiita](https://qiita.com/ShotaDeguchi) - About numerical simulation and machine / deep learning (Japanese). 
+* [GitHub](https://github.com/ShotaDeguchi) - Open-access deep learning codes. 
+* [Qiita](https://qiita.com/ShotaDeguchi) - Discussions on numerical simulation and machine / deep learning (Japanese). 
