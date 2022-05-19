@@ -4,7 +4,7 @@ layout: default
 
 # Shota DEGUCHI (出口翔大)
 * PhD student at Kyushu University, Japan. 
-* Visit my [GitHub](https://github.com/ShotaDeguchi) for open-access repositories storing deep learning codes (implements [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/)). 
+* Stores open-access deep learning codes in their [GitHub](https://github.com/ShotaDeguchi) (implements [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/)). 
 
 ## Affiliation
 * [Structural Analysis Lab.](https://kyushu-u.wixsite.com/structural-analysis), Kyushu University, Japan. 
