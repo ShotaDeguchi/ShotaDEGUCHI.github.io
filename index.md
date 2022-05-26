@@ -47,9 +47,9 @@ layout: default
 * **Shota Deguchi**: Development of Real-Time Flood Emulator by Combining Numerical Simulation and Machine Learning, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency, Japan (April 2022 - March 2025). 
 
 ## Programming Languages
-* Python (Machine / Deep Learning)
-* Fortran (Numerical Simulation)
-* C++ (Numerical Simulation)
+* Python
+* Fortran
+* C++
 
 ## I/O Platforms
 * [GitHub](https://github.com/ShotaDeguchi) - Open-access deep learning codes. 
