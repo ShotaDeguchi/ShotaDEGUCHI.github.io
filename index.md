@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Shota DEGUCHI (出口翔大)
+# Shota DEGUCHI（出口翔大）
 * PhD student at Kyushu University, Japan. 
 * Stores open-access deep learning codes in their [GitHub](https://github.com/ShotaDeguchi) (full scratch authorial code, implement [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/)). 
 
@@ -15,11 +15,11 @@ layout: default
 * Deep Learning (Deep Neural Network, Physics-Informed Neural Network, Graph Neural Network) 
 
 ## Publications
-### Refereed Papers (査読有り論文)
+### Refereed Papers（査読有り論文）
 * **出口翔大**，柴田洋佑，浅井光輝：[予測に物理的意味を付与した機械学習PINNsによる誤差を含む教師データからのパラメータ推定](https://doi.org/10.2208/jscejam.77.2_I_35)，土木学会論文集A2（応用力学），Vol. 77，No. 2，pp. I_35-45，2021年．
 * **出口翔大**，浅井光輝，植木裕人，竹内友紀，川崎浩司：[数値解析のサロゲートモデリングによる確率論的災害リスク評価手法の開発](https://doi.org/10.2208/jscejam.76.2_I_565)，土木学会論文集A2（応用力学），Vol. 76，No. 2，pp. I_565-576，2020年．
 
-### Non-Refereed Papers (査読無し論文)
+### Non-Refereed Papers（査読無し論文）
 * **出口翔大**，柴田洋佑，浅井光輝：PINNsによる逆問題へのアプローチ，計算工学講演会論文集，Vol. 26，pp. B-03-03，2021年．
 * **出口翔大**，浅井光輝，竹内友紀，川崎浩司：大規模解析のサロゲートモデリングによる確率論的災害被害リスク評価，計算工学講演会論文集，Vol. 25，pp. C-02-01，2020年．
 
