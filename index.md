@@ -27,7 +27,7 @@ layout: default
 * **Shota Deguchi**, Mitsuteru Asai, Hiroto Ueki, Yuki Takeuchi, Koji Kawasaki: Probabilistic disaster risk evaluation with surrogate-modelled numerical simulations, *COMPSAFE2020*, MS16-2-02, Kobe, Japan, December 2020. 
 
 ### Conferences (Japanese)
-* **出口翔大**，柴田洋佑，浅井光輝：空間特徴抽出を援用した実践的PINNsによるパラメータ逆推定，第27回計算工学講演会，C-07-05，2022年6月．
+* **出口翔大**，柴田洋佑，浅井光輝：空間特徴抽出を援用した実践的PINNsによるパラメータ逆推定，第27回計算工学講演会，C-07-05，2022年6月（秋田県）．
 * **出口翔大**，柴田洋佑，浅井光輝：空間特徴量抽出を援用したPINNsによるパラメータ逆解析の効率化，第25回応用力学シンポジウム，2B13-18-02，2022年5月．
 * **出口翔大**，柴田洋佑，浅井光輝：物理法則に基づく深層学習モデルPINNsによる流体運動の順・逆解析，第34回計算力学講演会，OS13-3-139，2021年9月．
 * 柴田洋佑，**出口翔大**，浅井光輝：物理問題として近似誤差を加味した機械学習PINNsによる粘性流体の逆解析，第34回計算力学講演会，OS06-8-068，2021年9月．
