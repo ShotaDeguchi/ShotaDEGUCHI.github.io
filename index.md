@@ -7,7 +7,7 @@ layout: default
 * Stores open-access deep learning codes in their [GitHub](https://github.com/ShotaDeguchi) (full scratch authorial code, implement [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/)). 
 
 ## Affiliation
-* [Structural Analysis Lab.](https://kyushu-u.wixsite.com/structural-analysis), Kyushu University, Japan. 
+* [Structural Analysis Laboratory](https://kyushu-u.wixsite.com/structural-analysis), Kyushu University, Japan. 
 
 ## Interests
 * Machine / Deep Learning for Physics Simulation
