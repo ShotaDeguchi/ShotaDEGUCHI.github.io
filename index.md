@@ -46,7 +46,7 @@ layout: default
 ### Other achievements
 * **Shota Deguchi**: Harmonising Reason with Sensibility, Global Young Academy Annual International Conference of Young Scientists 2022, Kyushu University, Fukuoka, Japan, June 2022 (Best Speaker Award in The English Debate Workshop for High School Students, University Students and Next Generation Researchers (as a side event)). 
 * **Shota Deguchi**: Transcending Borders, OIST Science Challenge 2021, Okinawa Institute of Science and Technology Graduate University, Okinawa, Japan, March 2021 (Judges' Special Award). 
-* **Shota Deguchi**: Completion of PFFP (Preparing Future Faculty Program), Kyushu University, Fukuoka, Japan, September 2020（Certification Number: 22）. 
+* **Shota Deguchi**: PFFP (Preparing Future Faculty Program), Kyushu University, Fukuoka, Japan, September 2020（Certification Number: 22）. 
 
 ## Grant
 * **Shota Deguchi**: Development of Real-Time Flood Emulator by Combining Numerical Simulation and Machine Learning, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency, Japan (April 2022 - March 2025). 
