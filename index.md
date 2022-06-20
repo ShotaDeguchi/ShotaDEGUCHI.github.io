@@ -16,8 +16,8 @@ layout: default
 
 ## Publications
 ### Refereed Papers（査読有り論文）
-* **出口翔大**，柴田洋佑，浅井光輝：[予測に物理的意味を付与した機械学習PINNsによる誤差を含む教師データからのパラメータ推定](https://doi.org/10.2208/jscejam.77.2_I_35)，土木学会論文集A2（応用力学），Vol. 77，No. 2，pp. I_35-45，2021年．
-* **出口翔大**，浅井光輝，植木裕人，竹内友紀，川崎浩司：[数値解析のサロゲートモデリングによる確率論的災害リスク評価手法の開発](https://doi.org/10.2208/jscejam.76.2_I_565)，土木学会論文集A2（応用力学），Vol. 76，No. 2，pp. I_565-576，2020年．
+* **出口翔大**，柴田洋佑，浅井光輝：[予測に物理的意味を付与した機械学習PINNsによる誤差を含む教師データからのパラメータ推定](https://doi.org/10.2208/jscejam.77.2_I_35)，土木学会論文集A2（応用力学），Vol. 77，No. 2，pp. I_35-45，2021年．[Shota DEGUCHI, Yosuke SHIBATA, Mitsuteru ASAI: Unknown Parameter Estimation Using Physics-Informed Neural Networks With Noised Observation Data, *Journal of Japan Society of Civil Engineers, Ser. A2 (Applied Mechanics (AM))*, Volume 77, Issue 2, Pages I_35-I_45, 2021.]
+* **出口翔大**，浅井光輝，植木裕人，竹内友紀，川崎浩司：[数値解析のサロゲートモデリングによる確率論的災害リスク評価手法の開発](https://doi.org/10.2208/jscejam.76.2_I_565)，土木学会論文集A2（応用力学），Vol. 76，No. 2，pp. I_565-576，2020年．[Shota DEGUCHI, Mitsuteru ASAI, Hiroto UEKI, Yuki TAKEUCHI, Koji KAWASAKI: Development Of Probabilistic Risk Evaluation Method With Surrogate-Modeled Numerical Simulations, *Journal of Japan Society of Civil Engineers, Ser. A2 (Applied Mechanics (AM))*, Volume 76, Issue 2, Pages I_565-I_576, 2020.]
 
 ### Non-Refereed Papers（査読無し論文）
 * **出口翔大**，柴田洋佑，浅井光輝：PINNsによる逆問題へのアプローチ，計算工学講演会論文集，Vol. 26，pp. B-03-03，2021年．
