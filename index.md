@@ -24,6 +24,7 @@ layout: default
 * **出口翔大**，浅井光輝，竹内友紀，川崎浩司：大規模解析のサロゲートモデリングによる確率論的災害被害リスク評価，計算工学講演会論文集，Vol. 25，pp. C-02-01，2020年．
 
 ### Conferences (International)
+* **Shota Deguchi**, Yosuke Shibata, Mitsuteru Asai: Unknown Parameter Identification from Noisy Training Data using Physics-Informed Neural Networks, *15th World Congress on Computational Mechanics & 8th Asian Pacific Congress on Computational Mechanics*, MS0213, Yokohama, Japan, August 2022. 
 * **Shota Deguchi**, Mitsuteru Asai, Hiroto Ueki, Yuki Takeuchi, Koji Kawasaki: Probabilistic disaster risk evaluation with surrogate-modelled numerical simulations, *COMPSAFE2020*, MS16-2-02, Kobe, Japan, December 2020. 
 
 ### Conferences (Japanese)
