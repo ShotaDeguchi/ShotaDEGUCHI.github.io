@@ -16,8 +16,8 @@ layout: default
 
 ## Publications
 ### Refereed Papers（査読有り論文）
-* **出口翔大**，柴田洋佑，浅井光輝：[予測に物理的意味を付与した機械学習PINNsによる誤差を含む教師データからのパラメータ推定](https://doi.org/10.2208/jscejam.77.2_I_35)，土木学会論文集A2（応用力学），Vol. 77，No. 2，pp. I_35-45，2021年．[**Shota DEGUCHI**, Yosuke SHIBATA, Mitsuteru ASAI: Unknown Parameter Estimation Using Physics-Informed Neural Networks With Noised Observation Data, *Journal of Japan Society of Civil Engineers, Ser. A2 (Applied Mechanics (AM))*, Volume 77, Issue 2, Pages I_35-I_45, 2021.]
-* **出口翔大**，浅井光輝，植木裕人，竹内友紀，川崎浩司：[数値解析のサロゲートモデリングによる確率論的災害リスク評価手法の開発](https://doi.org/10.2208/jscejam.76.2_I_565)，土木学会論文集A2（応用力学），Vol. 76，No. 2，pp. I_565-576，2020年．[**Shota DEGUCHI**, Mitsuteru ASAI, Hiroto UEKI, Yuki TAKEUCHI, Koji KAWASAKI: Development Of Probabilistic Risk Evaluation Method With Surrogate-Modeled Numerical Simulations, *Journal of Japan Society of Civil Engineers, Ser. A2 (Applied Mechanics (AM))*, Volume 76, Issue 2, Pages I_565-I_576, 2020.]
+* **出口翔大**，柴田洋佑，浅井光輝：[予測に物理的意味を付与した機械学習PINNsによる誤差を含む教師データからのパラメータ推定](https://doi.org/10.2208/jscejam.77.2_I_35)，土木学会論文集A2（応用力学），Vol. 77，No. 2，pp. I_35-45，2021年．<br>[**Shota DEGUCHI**, Yosuke SHIBATA, Mitsuteru ASAI: Unknown Parameter Estimation Using Physics-Informed Neural Networks With Noised Observation Data, *Journal of Japan Society of Civil Engineers, Ser. A2 (Applied Mechanics (AM))*, Volume 77, Issue 2, Pages I_35-I_45, 2021.]
+* **出口翔大**，浅井光輝，植木裕人，竹内友紀，川崎浩司：[数値解析のサロゲートモデリングによる確率論的災害リスク評価手法の開発](https://doi.org/10.2208/jscejam.76.2_I_565)，土木学会論文集A2（応用力学），Vol. 76，No. 2，pp. I_565-576，2020年．<br>[**Shota DEGUCHI**, Mitsuteru ASAI, Hiroto UEKI, Yuki TAKEUCHI, Koji KAWASAKI: Development Of Probabilistic Risk Evaluation Method With Surrogate-Modeled Numerical Simulations, *Journal of Japan Society of Civil Engineers, Ser. A2 (Applied Mechanics (AM))*, Volume 76, Issue 2, Pages I_565-I_576, 2020.]
 
 ### Non-Refereed Papers（査読無し論文）
 * **出口翔大**，柴田洋佑，浅井光輝：空間特徴抽出を援用した実践的PINNsによるパラメータ逆推定，計算工学講演会論文集，Vol. 27，pp. C-07-05，2022年．
@@ -43,8 +43,8 @@ layout: default
 * **出口翔大**，浅井光輝：大規模津波解析のサロゲートモデル化による確率論的被害リスク評価，令和元年度土木学会西部支部研究発表会，Ⅱ-7，2020年3月．
 
 ### Invited talks（招待講演）
-* **出口翔大**：自動微分を用いたニューラルネットワークPINNによる未知パラメータの逆解析，微分計算科学の理論・応用・展開，九州大学マス・フォア・インダストリ研究所，2022年8月．
-* **出口翔大**：支配方程式による制約を加えた機械学習PINNsを用いた粘性流体の順・逆解析，機械学習の工学問題適用に関する研究会，第8回研究会，日本計算工学会，2022年1月．
+* **出口翔大**：自動微分を用いたニューラルネットワークPINNによる未知パラメータの逆解析，微分計算科学の理論・応用・展開，九州大学マス・フォア・インダストリ研究所，2022年8月．<br>[Shota DEGUCHI: Unknown parameter identification with physics-informed neural network using automatic differentiation, Derivative Computational Science ‒ Theory, Application, and Future -, Institute of Mathematics for Industry, Kyushu University, August 2022.]
+* **出口翔大**：支配方程式による制約を加えた機械学習PINNsを用いた粘性流体の順・逆解析，機械学習の工学問題適用に関する研究会，第8回研究会，日本計算工学会，2022年1月．<br>[Shota DEGUCHI: Forward and inverse analysis of viscous fluids using governing equation-constrainted PINNs, Japan Society for Computational Engineering and Science (JSCES), January 2022.]
 
 ### Others
 * **Shota Deguchi**: Harmonising Reason with Sensibility, Global Young Academy Annual International Conference of Young Scientists 2022, Kyushu University, Fukuoka, Japan, June 2022 (*Best Speaker Award* in The English Debate Workshop for High School Students, University Students and Next Generation Researchers as a side event). 
