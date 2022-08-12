@@ -43,14 +43,15 @@ layout: default
 * **出口翔大**，浅井光輝：大規模津波解析のサロゲートモデル化による確率論的被害リスク評価，令和元年度土木学会西部支部研究発表会，Ⅱ-7，2020年3月．
 
 ### Invited talks（招待講演）
-* **出口翔大**：深層学習による偏微分方程式の求解・パラメータ探索，日本計算工学会，2022年8月．<br>**Shota DEGUCHI**: Solving PDEs and identifying system parameters with deep learning, Japan Society for Computational Engineering and Science (JSCES), August 2022.
+* **出口翔大**：深層学習による偏微分方程式の求解・パラメータ探索，夏季学生講演会，日本計算工学会，2022年8月．<br>**Shota DEGUCHI**: Solving PDEs and identifying system parameters with deep learning, Japan Society for Computational Engineering and Science (JSCES), August 2022.
 * **出口翔大**：自動微分を用いたニューラルネットワークPINNによる未知パラメータの逆解析，微分計算科学の理論・応用・展開，九州大学マス・フォア・インダストリ研究所，2022年8月．<br>**Shota DEGUCHI**: Unknown parameter identification with physics-informed neural network using automatic differentiation, Derivative Computational Science ‒ Theory, Application, and Future -, Institute of Mathematics for Industry, Kyushu University, August 2022.
 * **出口翔大**：支配方程式による制約を加えた機械学習PINNsを用いた粘性流体の順・逆解析，機械学習の工学問題適用に関する研究会，第8回研究会，日本計算工学会，2022年1月．<br>**Shota DEGUCHI**: Forward and inverse analysis of viscous fluids using governing equation-constrainted PINNs, Study Group on Machine Learning Applications to Engineering Problems, Japan Society for Computational Engineering and Science (JSCES), January 2022.
 
 ### Others（その他）
-* **Shota Deguchi**: Harmonising Reason with Sensibility, Global Young Academy Annual International Conference of Young Scientists 2022, Kyushu University, Fukuoka, Japan, June 2022 (*Best Speaker Award* in The English Debate Workshop for High School Students, University Students and Next Generation Researchers as a side event). 
+* Student Executive Comittee Member, JSCES Study Group of Students, Japan Society for Computational Engineering and Science (JSCES), Japan, August 2022. 
+* Harmonising Reason with Sensibility, Global Young Academy Annual International Conference of Young Scientists 2022, Kyushu University, Fukuoka, Japan, June 2022 (*Best Speaker Award* in The English Debate Workshop for High School Students, University Students and Next Generation Researchers as a side event). 
 * **Shota Deguchi**: Transcending Borders, OIST Science Challenge 2021, Okinawa Institute of Science and Technology Graduate University, Okinawa, Japan, March 2021 (*Judges' Special Award*). 
-* **Shota Deguchi**: PFFP, Preparing Future Faculty Program, Kyushu University, Fukuoka, Japan, September 2020（Certification Number: 22）. 
+* Completion of Preparing Future Faculty Program (PFFP), Kyushu University, Fukuoka, Japan, September 2020（Certification Number: 22）. 
 
 ## Grants
 * **Shota Deguchi**: Development of Real-Time Flood Emulator by Combining Numerical Simulation and Machine Learning, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency, Japan (April 2022 - March 2025). 
