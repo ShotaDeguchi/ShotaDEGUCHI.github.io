@@ -50,7 +50,7 @@ layout: default
 ### Others（その他）
 * Student Executive Comittee Member, JSCES Study Group of Students, Japan Society for Computational Engineering and Science (JSCES), Japan, August 2022. 
 * Harmonising Reason with Sensibility, Global Young Academy Annual International Conference of Young Scientists 2022, Kyushu University, Fukuoka, Japan, June 2022 (*Best Speaker Award* in The English Debate Workshop for High School Students, University Students and Next Generation Researchers as a side event). 
-* **Shota Deguchi**: Transcending Borders, OIST Science Challenge 2021, Okinawa Institute of Science and Technology Graduate University, Okinawa, Japan, March 2021 (*Judges' Special Award*). 
+* Transcending Borders, OIST Science Challenge 2021, Okinawa Institute of Science and Technology Graduate University, Okinawa, Japan, March 2021 (*Judges' Special Award*). 
 * Completion of Preparing Future Faculty Program (PFFP), Kyushu University, Fukuoka, Japan, September 2020（Certification Number: 22）. 
 
 ## Grants
