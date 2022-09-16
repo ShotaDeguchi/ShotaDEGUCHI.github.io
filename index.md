@@ -43,7 +43,7 @@ layout: default
 * **出口翔大**，浅井光輝：大規模津波解析のサロゲートモデル化による確率論的被害リスク評価，令和元年度土木学会西部支部研究発表会，Ⅱ-7，2020年3月．
 
 ### Invited talks（招待講演）
-* **出口翔大**：深層学習による偏微分方程式の求解・パラメータ探索，夏季学生講演会，日本計算工学会，2022年8月．<br>**Shota DEGUCHI**: Solving PDEs and identifying system parameters with deep learning, Japan Society for Computational Engineering and Science (JSCES), August 2022.
+* **出口翔大**：深層学習による偏微分方程式の求解・パラメータ探索，日本計算工学会，夏季学生講演会，2022年8月．<br>**Shota DEGUCHI**: Solving PDEs and identifying system parameters with deep learning, Japan Society for Computational Engineering and Science (JSCES), August 2022.
 * **出口翔大**：自動微分を用いたニューラルネットワークPINNによる未知パラメータの逆解析，微分計算科学の理論・応用・展開，九州大学マス・フォア・インダストリ研究所，2022年8月．<br>**Shota DEGUCHI**: Unknown parameter identification with physics-informed neural network using automatic differentiation, Derivative Computational Science ‒ Theory, Application, and Future -, Institute of Mathematics for Industry, Kyushu University, August 2022.
 * **出口翔大**：支配方程式による制約を加えた機械学習PINNsを用いた粘性流体の順・逆解析，機械学習の工学問題適用に関する研究会，第8回研究会，日本計算工学会，2022年1月．<br>**Shota DEGUCHI**: Forward and inverse analysis of viscous fluids using governing equation-constrainted PINNs, Study Group on Machine Learning Applications to Engineering Problems, Japan Society for Computational Engineering and Science (JSCES), January 2022.
 
