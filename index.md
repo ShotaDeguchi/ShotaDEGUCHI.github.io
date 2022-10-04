@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<!-- 
+comment
+-->
+
 # Shota DEGUCHI（出口翔大）
 * PhD student at Kyushu University, Japan. 
 * Stores open-access deep learning codes in their [GitHub](https://github.com/ShotaDeguchi) (full-scratch authorial code, implements in [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/)). 
