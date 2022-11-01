@@ -3,7 +3,7 @@ layout: default
 ---
 
 <!-- 
-comment
+This is how you can comment out. 
 -->
 
 # Shota DEGUCHI（出口翔大）
