@@ -20,6 +20,7 @@ This is how you can comment out.
 
 ## Publications
 ### Refereed Papers（査読有り論文）
+* **出口翔大**，柴田洋佑，浅井光輝：[空間特徴量抽出を援用したPINNsによるパラメータ逆解析の効率化](link_not_provided_yet)，土木学会論文集A2（応用力学），Vol. xx，No. x，pp. I_xx-xx，2022年．<br>**Shota DEGUCHI**, Yosuke SHIBATA, Mitsuteru ASAI: [Efficiency Improvement of PINNs Inverse Analysis by Extracting Spatial Features of Data](link_not_provided_yet), *Journal of Japan Society of Civil Engineers, Ser. A2 (Applied Mechanics (AM))*, Volume xx, Issue x, Pages I_xx-I_xx, 2022 (in press).
 * **出口翔大**，柴田洋佑，浅井光輝：[予測に物理的意味を付与した機械学習PINNsによる誤差を含む教師データからのパラメータ推定](https://doi.org/10.2208/jscejam.77.2_I_35)，土木学会論文集A2（応用力学），Vol. 77，No. 2，pp. I_35-45，2021年．<br>**Shota DEGUCHI**, Yosuke SHIBATA, Mitsuteru ASAI: [Unknown Parameter Estimation using Physics-Informed Neural Networks with Noised Observation Data](https://www.jstage.jst.go.jp/article/jscejam/77/2/77_I_35/_article/-char/en), *Journal of Japan Society of Civil Engineers, Ser. A2 (Applied Mechanics (AM))*, Volume 77, Issue 2, Pages I_35-I_45, 2021.
 * **出口翔大**，浅井光輝，植木裕人，竹内友紀，川崎浩司：[数値解析のサロゲートモデリングによる確率論的災害リスク評価手法の開発](https://doi.org/10.2208/jscejam.76.2_I_565)，土木学会論文集A2（応用力学），Vol. 76，No. 2，pp. I_565-576，2020年．<br>**Shota DEGUCHI**, Mitsuteru ASAI, Hiroto UEKI, Yuki TAKEUCHI, Koji KAWASAKI: [Development of Probabilistic Risk Evaluation Method with Surrogate-Modeled Numerical Simulations](https://www.jstage.jst.go.jp/article/jscejam/76/2/76_I_565/_article/-char/en), *Journal of Japan Society of Civil Engineers, Ser. A2 (Applied Mechanics (AM))*, Volume 76, Issue 2, Pages I_565-I_576, 2020.
 
@@ -59,12 +60,9 @@ This is how you can comment out.
 * Completion of Preparing Future Faculty Program (PFFP), Kyushu University, Fukuoka, Japan, September 2020（Certification Number: 22）. 
 
 ## Grants
+* **Shota Deguchi**: Real-Time & Generalizable Flood Simulation Emulator with Numerical Analysis and Machine Learning, JSPS Research Fellowship for Young Scientists (DC2), Japan Society for the Promotion of Science (JSPS), Japan (April 2023 - March 2025). 
 * **Shota Deguchi**: Fast and Extrapolatable Emulator using Numerical Analysis and Deep Learning, Support Program for Education and Research in Mathematical and Data Sciences, Kyushu University, Japan (April 2022 - March 2023). 
 * **Shota Deguchi**: Development of Real-Time Flood Emulator by Combining Numerical Simulation and Machine Learning, Support for Pioneering Research Initiated by the Next Generation (SPRING), Japan Science and Technology Agency, Japan (April 2022 - March 2025). 
-
-<!-- 
-* **Shota Deguchi**: Real-Time & Generalizable Flood Simulation Emulator with Numerical Analysis and Machine Learning, JSPS Research Fellowship for Young Scientists (DC2), Japan Society for the Promotion of Science (JSPS), Japan (April 2023 - March 2025). 
--->
 
 ## Programming Languages
 * Python
