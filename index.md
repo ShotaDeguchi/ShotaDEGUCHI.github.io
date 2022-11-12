@@ -7,7 +7,7 @@ This is how you can comment out.
 -->
 
 ### Note
-This is an old site, latest information can be found [here](https://shota-deguchi.vercel.app/). 
+This is an old site, the latest information can be found [here](https://shota-deguchi.vercel.app/). 
 
 # Shota DEGUCHI（出口翔大）
 * PhD student at Kyushu University, Japan. 
