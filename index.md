@@ -6,6 +6,9 @@ layout: default
 This is how you can comment out. 
 -->
 
+### Note
+This is an old site, latest information can be found [here](https://shota-deguchi.vercel.app/). 
+
 # Shota DEGUCHI（出口翔大）
 * PhD student at Kyushu University, Japan. 
 * Stores open-access deep learning codes in their [GitHub](https://github.com/ShotaDeguchi) (full-scratch authorial code, implements in [TensorFlow](https://www.tensorflow.org/) and [PyTorch](https://pytorch.org/)). 
