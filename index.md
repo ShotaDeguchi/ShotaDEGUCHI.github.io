@@ -6,7 +6,7 @@ layout: default
 This is how you can comment out. 
 -->
 
-### Note
+### Notice
 This is an old site, the latest information can be found [here](https://shota-deguchi.vercel.app/). 
 
 # Shota DEGUCHI（出口翔大）
